@@ -8,3 +8,8 @@
 - The user can keep track of their score.
 - The user can keep track of their progress in the quiz.
 
+### Resources
+- [Progress Bar #1](https://www.npmjs.com/package/react-progressbar)
+- [Progress Bar #2 and #3](https://www.npmjs.com/package/rc-progress)
+- [Setting up React Bootstrap](https://github.com/facebookincubator/create-react-app/issues/301)
+
